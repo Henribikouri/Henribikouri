@@ -1,4 +1,4 @@
-<h1 align="center"> Salut ! Je suis je suis Henri BIKOURI </h1>
+<h1 align="center">🖖 Salut ! Je suis je suis Henri BIKOURI </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Développeur%20Passionné;Créateur%20de%20Solutions%20Innovantes;Amoureux%20du%20Code&font=Pacifico&center=true&width=500&height=100&color=3366FF&vCenter=true" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,java,git,github,html,css,django,threejs,blender,php,c,c++,spring,laravel,angular,hibernate,javascript,bootstrap,unity,magento" />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,java,git,github,html,css,django,threejs,blender,php,c,c++,spring,laravel,angular,hibernate,javascript,bootstrap,unity,magento,makehuman," />
   </a>
 </p>
 
